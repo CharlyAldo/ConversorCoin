@@ -17,18 +17,7 @@ Este es un proyecto de consola desarrollado en Java que permite convertir montos
 ---
 
 ## 📷 Vista previa
-╔════════════════════════════════════════════════╗ 
-║ 🌍 Bienvenido al Conversor de Monedas          ║ 
-╠════════════════════════════════════════════════╣ 
-║ 1 - ARS - Peso argentino                       ║ 
-║ 2 - BOB - Boliviano                            ║ 
-║ 3 - BRL - Real brasileño                       ║ 
-║ 4 - CLP - Peso chileno                         ║ 
-║ 5 - COP - Peso colombiano                      ║ 
-║ 6 - USD - Dólar estadounidense                 ║ 
-║ 0 - Salir                                      ║ 
-╚════════════════════════════════════════════════╝ 
-👉 Ingrese una opción:
+╔════════════════════════════════════════════════╗ ║ 🌍 Bienvenido al Conversor de Monedas ║ ╠════════════════════════════════════════════════╣ ║ 1 - ARS - Peso argentino ║ ║ 2 - BOB - Boliviano ║ ║ 3 - BRL - Real brasileño ║ ║ 4 - CLP - Peso chileno ║ ║ 5 - COP - Peso colombiano ║ ║ 6 - USD - Dólar estadounidense ║ ║ 0 - Salir ║ ╚════════════════════════════════════════════════╝ 👉 Ingrese una opción:
 
 
 ## 🧪 Tecnologías utilizadas
